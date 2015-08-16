@@ -16,4 +16,8 @@
     <string name="login_error_message">Please make sure you enter a username and password!</string>
     <string name="login_error_title">Oops!</string>
     <string name="menu_logout_label">Logout</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="title_section1">Inbox</string>
+    <string name="title_section2">Friends</string>
 </resources>
